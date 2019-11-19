@@ -1,0 +1,8 @@
+﻿  Calculator.cpp
+c:\users\justin\source\repos\calculator\calculator\calculator.cpp(122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\justin\source\repos\calculator\calculator\calculator.cpp(122): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\justin\source\repos\calculator\calculator\calculator.cpp(131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\justin\source\repos\calculator\calculator\calculator.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\justin\source\repos\calculator\calculator\calculator.cpp(144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\justin\source\repos\calculator\calculator\calculator.cpp(149): warning C4553: '==': result of expression not used; did you intend '='?
+  Calculator.vcxproj -> C:\Users\Justin\source\repos\Calculator\Debug\Calculator.exe
